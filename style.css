@@ -1,19 +1,30 @@
 body {
-
+  display: block;
+  height: 100vh;
+  width: 100vw;
 }
 
 .header {
-
+  height: 20%;
+  width: 100%;
+  color: blue;
 }
 
 .main {
-
+  display: flex;
+  height: 80%;
+  width: 100%;
+  color: orange;
 }
 
 .sidebar {
-
+  height: 100%;
+  width: 30%;
+  color: purple;
 }
 
 .puzzleholder {
-
+  height: 100%;
+  width: 40%;
+  color: green;
 }
