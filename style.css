@@ -7,24 +7,24 @@ body {
 .header {
   height: 20%;
   width: 100%;
-  color: #006C7F;
+  background-color: #006C7F;
 }
 
 .main {
   display: flex;
   height: 80%;
   width: 100%;
-  color: #FF881E;
+  background-color: #FF881E;
 }
 
 .sidebar {
   height: 100%;
   width: 30%;
-  color: #CC3AC9;
+  background-color: #CC3AC9;
 }
 
 .puzzleholder {
   height: 100%;
   width: 40%;
-  color: #72FF47;
+  background-color: #72FF47;
 }
